@@ -189,6 +189,9 @@ wandb
 #weights
 *.pth
 
+#dataset
+data/
+
 # pytype static type analyzer
 .pytype/
 
